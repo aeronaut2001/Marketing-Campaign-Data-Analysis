@@ -6,7 +6,7 @@ Marketing Campaign Data Analysis Using Apache Spark (PySpark)
 1. Load ad_campaigns_data.json, user_profile_data.json and store_data.json files in
 HDFS
 2. Write PySpark code in Jupyter notebook to solve below mentioned analytical
-problems
+problems <tr>
 a.
 
 
